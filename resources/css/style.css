@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+*{
+margin: 0;
+
+}
+html{
+font-family: 'Kumbh Sans', sans-serif;
+
+}
+
+body{
+font-size: 18px;
+background-color: darkcyan;
+}
+
+.header{
+height: 400px;
+width: 45%;
+background-color: rgb(40, 156, 156);
+border-radius: 0 0 100% 0;
+}
+
+.profile{
+position: absolute;
+background-color: white;
+height: 400px;
+width: 400px;
+border-radius: 10% 10%;
+}
+.name-age li{
+display: inline-block;
+list-style: none;
+padding: 5px;
+
+}
+.age{
+color: grey;}
+
+
+
+}
+
+.row2{
+
+}
+
+.impressions li{
+padding-top: 30px;
+list-style: none;
+display: inline-block;
+margin: 0 20px 0 20px;
+
+}
+.footer{
+float: right;
+height: 400px;
+width: 45%;
+background-color: rgb(40, 156, 156);
+border-radius: 100% 0 0 0;
+}
